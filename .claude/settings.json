@@ -1,0 +1,4 @@
+{
+  "//": "Hard-wall hook for agent-learn-mode -- DISABLED by default. To enable it (turn the wall from a soft, context-based constraint into a hard one that physically blocks file edits), copy the \"PreToolUse\" block shown in README.md > 'Hook (hard wall, opt-in)' into the empty \"hooks\" object below. This is your conscious choice: soft wall = the agent usually holds the line; hard wall = the tool call is denied at the permission layer regardless of what the agent decides to do.",
+  "hooks": {}
+}

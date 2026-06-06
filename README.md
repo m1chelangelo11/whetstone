@@ -1,4 +1,4 @@
-# agent-learn-mode
+# whetstone
 
 **Learning mode for AI coding agents.** The agent guides you, names APIs, critiques
 and helps you debug — but it **never writes the code for you**. You generate every
